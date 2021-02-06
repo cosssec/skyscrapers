@@ -1,6 +1,6 @@
 '''
 This module works with the board for skyscrapers game.
-https://github.com/cosssec/skyscrapers_lab
+https://github.com/cosssec/skyscrapers
 '''
 
 
